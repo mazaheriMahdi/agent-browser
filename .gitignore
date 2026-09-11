@@ -1,1 +1,4 @@
 /target
+# Bundle artifacts
+bundle/node_modules/
+bundle/dist/
